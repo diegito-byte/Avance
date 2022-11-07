@@ -1,7 +1,12 @@
 # Avance
 
-### Connect Github + 1000s of apps, remarkably fast.
+### PROYECTO FINAL: IMC
 -------
-Pipedream is an integration platform for developers. Pipedream provides a free, hosted platform for connecting apps and developing event-driven automations.
+Nosotros utilizamos java web para el desarrollo de esta actividad ademas de utilizar un gestor de base de datos.
 
-<a href="https://bit.ly/3M2Yclb"><img src="https://i.ibb.co/n38r3KV/github.png" alt="github" border="0" height="50" /></a>
+REQUISITOS PARA INSTALACION:
+NETBEANS: <a href="https://netbeans.apache.org/download/nb13/nb13.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="github" border="0" height="50" /></a>
+
+
+
+
